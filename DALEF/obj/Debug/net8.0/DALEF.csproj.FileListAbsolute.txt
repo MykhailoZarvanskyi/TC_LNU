@@ -1,0 +1,17 @@
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\bin\Debug\net8.0\DALEF.deps.json
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\bin\Debug\net8.0\DALEF.dll
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\bin\Debug\net8.0\DALEF.pdb
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\bin\Debug\net8.0\DAL.dll
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\bin\Debug\net8.0\DTO.dll
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\bin\Debug\net8.0\DAL.pdb
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\bin\Debug\net8.0\DTO.pdb
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\obj\Debug\net8.0\DALEF.csproj.AssemblyReference.cache
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\obj\Debug\net8.0\DALEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\obj\Debug\net8.0\DALEF.AssemblyInfoInputs.cache
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\obj\Debug\net8.0\DALEF.AssemblyInfo.cs
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\obj\Debug\net8.0\DALEF.csproj.CoreCompileInputs.cache
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\obj\Debug\net8.0\DALEF.csproj.Up2Date
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\obj\Debug\net8.0\DALEF.dll
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\obj\Debug\net8.0\refint\DALEF.dll
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\obj\Debug\net8.0\DALEF.pdb
+C:\Users\Мишутка\source\repos\ПЗ_LNU\DALEF\obj\Debug\net8.0\ref\DALEF.dll
